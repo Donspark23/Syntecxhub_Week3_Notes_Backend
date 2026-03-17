@@ -34,7 +34,6 @@ const { protect } = require("../middleware/authMiddleware");
  *           schema:
  *             type: object
  *             properties:
- *               {
                   title:
                      type: string
                   content:
