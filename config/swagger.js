@@ -12,7 +12,11 @@ const options = {
   servers: [
    {
     url: "http://localhost:5000",
-    description: "Local server"
+    description: "Local server",
+   },
+   {
+    url: "https://syntecxhub-week3-notes-backend.onrender.com",
+description: "Live server"
    }
   ],
 
