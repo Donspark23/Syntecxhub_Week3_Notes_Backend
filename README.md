@@ -130,7 +130,7 @@ http://localhost:5000
 
 OR
 
-https://your-api-name.onrender.com
+https://syntecxhub-week3-notes-backend.onrender.com
 
 Example 1 — Register User
 
@@ -255,7 +255,7 @@ Json
 
 Interactive documentation:
 
-https://your-api-url.onrender.com/api-docs
+https://syntecxhub-week3-notes-backend.onrender.com/api-docs
 
 ---
 
@@ -263,7 +263,7 @@ https://your-api-url.onrender.com/api-docs
 
 Clone repository
 
-git clone https://github.com/Donspark23/rep-name.git⁠�
+git clone https://github.com/Donspark23/syntecxhub-week3-notes-backend.git⁠�
 
 
 Install dependencies
@@ -317,7 +317,7 @@ Backend Developer
 Frontend Developer  
 
 LinkedIn:
-https://www.linkedin.com/in/uchenna-chidera-onyesom-72b973345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+https://www.linkedin.com/in/uchenna-chidera-onyesom-72b973345
 
 ---
 
@@ -326,7 +326,7 @@ https://www.linkedin.com/in/uchenna-chidera-onyesom-72b973345?utm_source=share&u
 Base URL
 
 
-https://your-api.onrender.com
+https://syntecxhub-week3-notes-backend.onrender.com
 
 Test endpoints using Postman or any API client.
 
